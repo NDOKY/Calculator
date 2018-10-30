@@ -19,7 +19,7 @@ int main()
     R=addition(c,d);
 
 
-    printf("le resultat est %d\n",R);
+    printf("le resultat est %d+%d\n",c,d);
 
     return 0;
 }
