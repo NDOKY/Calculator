@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539923462 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\fonction addition\fonction soustraction.c
+	<stdio.h>
+	<stdlib.h>
+
+1539922791 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\fonction addition\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1539923289 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\fonction addition\division.c
+	<stdio.h>
+	<stdlib.h>
+
+1539919191 source:d:\cours cesi-exia\electronic\prosit 7 fonction et recursivité\programmation2.0 fonction\fonction addition\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539945208 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\approximation racine n-ieme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539941608 source:d:\cours cesi-exia\electronic\prosit 7 fonction et recursivité\programmation2.0 fonction\approximation racine n-ieme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

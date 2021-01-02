@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539950931 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\approximation racine carree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

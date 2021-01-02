@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539933637 source:d:\cours cesi-exia\electronic\prosit 7\programmation2.0\approximation de pi par leibniz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539963626 source:d:\cours cesi-exia\electronic\prosit 7 fonction et recursivité\programmation2.0\approximation de pi par leibniz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539963626 source:d:\cours cesi-exia\electronic\prosit 7 fonction et recursivité\programmation2.0 fonction\approximation de pi par leibniz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
